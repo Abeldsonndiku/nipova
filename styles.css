@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+html{
+  text-align: center;
+  padding: 20px 0;
+}
+svg{
+  height: 50vh;
+}
